@@ -1,0 +1,9 @@
+##Play 2.3.x Swagger 2.0 compliance PoC
+
+Thanks to the great work done by [Fruzenshtein](https://github.com/Fruzenshtein/inLaw).
+Hands down, solid well done job!
+
+Reference:
+
+- [http://java.dzone.com/articles/play-framework-swagger-ui](http://java.dzone.com/articles/play-framework-swagger-ui)
+
