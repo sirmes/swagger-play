@@ -5,6 +5,7 @@ Hands down, solid well done job!
 
 Reference:
 
+- [swagger-play2 source code](https://github.com/swagger-api/swagger-core/tree/develop_scala-2.11/modules/swagger-play2)
 - [Swagger 2.0 Specs](https://github.com/swagger-api/swagger-spec/blob/master/versions/2.0.md)
 - [http://java.dzone.com/articles/play-framework-swagger-ui](http://java.dzone.com/articles/play-framework-swagger-ui)
 
